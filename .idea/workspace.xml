@@ -1,22 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4df560d8-f1b4-4db5-92d1-cad03600c5a2" name="Default Changelist" comment="" />
+    <list default="true" id="4df560d8-f1b4-4db5-92d1-cad03600c5a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hello_template.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configurations.py" beforeDir="false" afterPath="$PROJECT_DIR$/configurations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/templates/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/hello/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hello/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/public/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/public/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/public/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/templates/static/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/js/components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/templates/static/js/components/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/js/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/templates/static/js/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/js/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/static/js/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/templates/static/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/static/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/static/webpack.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="74edc867-640a-420c-a7cd-842a1dfe6ffc" />
   <component name="ProjectId" id="1Y4cc1TCbHpxPoryTExltIxD7Ob" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/hello_template-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -57,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582205382600</updated>
-      <workItem from="1582205384461" duration="959000" />
+      <workItem from="1582205384461" duration="11271000" />
     </task>
     <servers />
   </component>
@@ -65,24 +105,36 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1582205608952">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1582220049545">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582205608952" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1582205608952">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582220049545" />
+    <state width="637" height="179" key="GridCell.Tab.0.bottom" timestamp="1582220284768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582205608952" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1582205608951">
+    <state width="637" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582220284768" />
+    <state width="637" height="179" key="GridCell.Tab.0.center" timestamp="1582220284768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582205608951" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1582205608952">
+    <state width="637" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582220284768" />
+    <state width="637" height="179" key="GridCell.Tab.0.left" timestamp="1582220284768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582205608952" />
+    <state width="637" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582220284768" />
+    <state width="637" height="179" key="GridCell.Tab.0.right" timestamp="1582220284768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582220284768" />
+    <state x="380" y="0" width="670" height="728" key="find.popup" timestamp="1582220228040">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="0" width="670" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1582220228040" />
+    <state x="4" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582220244677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="4" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582220244677" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/hello_template$run.coverage" NAME="run Coverage Results" MODIFIED="1582205561496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hello_template$run.coverage" NAME="run Coverage Results" MODIFIED="1582220284754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
